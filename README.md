@@ -1,1 +1,2 @@
 # odin-recipes
+my current project is to create a basic recipes website using html elements, tags and attributes. i would implement the usage of a html boilerplate, and elements such as paragraphs, headings, lists, adding links and images.
